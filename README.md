@@ -1,16 +1,53 @@
-## Hi there 👋
+Hi, I'm Hastings Chibale 👋
 
-<!--
-**hastingsh70041375-stack/hastingsh70041375-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an ICT with Education student at the University of Zambia (UNZA) and an aspiring software developer with an interest in cybersecurity.
 
-Here are some ideas to get you started:
+I'm passionate about technology, programming and building practical solutions to real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Career Direction
+
+- Aspiring Software Developer
+- Interested in Cybersecurity and Application Security
+- Focused on developing practical programming skills
+
+💻 What I'm Learning
+
+- Java Programming
+- HTML, CSS and JavaScript
+- Software Development Fundamentals
+- Programming Logic and Problem-Solving
+- Cybersecurity Fundamentals
+
+🚀 Projects
+
+UNZA MARKET
+
+A student marketplace project designed to help students buy, sell and connect.
+
+Java Student Grade Calculator
+
+A Java application that accepts student marks, calculates averages and determines grades.
+
+🛠️ Technical Skills
+
+- Java – Beginner
+- HTML – Beginner
+- CSS – Beginner
+- JavaScript – Beginner
+
+🌱 Current Goals
+
+- Strengthen my programming and problem-solving skills.
+- Build practical software projects.
+- Learn secure software development principles.
+- Develop knowledge of cybersecurity.
+- Prepare for internship opportunities.
+
+📫 Connect With Me
+
+- GitHub: "My GitHub Profile" (https://github.com/hastingsh70041375-stack)
+
+
+---
+
+Learning, building and growing in technology.
